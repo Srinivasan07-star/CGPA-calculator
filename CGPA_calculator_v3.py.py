@@ -1,3 +1,4 @@
+print("Welcome to CGPA Calculator")
 class Student:
 
     def __init__(self,r,n,d,y):
